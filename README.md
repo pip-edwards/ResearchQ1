@@ -72,4 +72,9 @@ exploring_data_and_stanoutput_2505.ipynb
 6.
 
 climatologies_maps.py
-- in the making!
+6.
+
+climatologies_maps.py
+- makes maps of the climatologies of each prior dataset
+- makes a map of mu and sigma for overall
+- makes monthly maps of mu and sigma TO DO THIS LINE
